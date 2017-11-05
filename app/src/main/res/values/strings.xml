@@ -2,4 +2,10 @@
     <string name="app_name">AndroidTraining</string>
     <string name="edit_message">Enter a message</string>
     <string name="button_send">Send</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="fragment_headline">headline</string>
+    <string name="fragment_article">article</string>
+    <string name="preference_file_key">com.whu.bingo.PREFERENCE_FILE_KEY</string>
 </resources>
